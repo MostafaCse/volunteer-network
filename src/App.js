@@ -1,24 +1,13 @@
 import React from 'react';
 import logo from './logo.svg';
 import './App.css';
+import Home from './components/Home/Home';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div>
+       <h1>due to my eye's problem , i was unable to continue my study.now i am ok, i am doing this  assignment.due to short time, i  am submitting the assignment incomplately.plz consider it.</h1>
+    
     </div>
   );
 }
